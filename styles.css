@@ -188,6 +188,10 @@ footer a {
 color: var(--color3);
 }
 
+footer2 a {
+color: var(--color1);
+}
+
 
 
 
@@ -921,6 +925,10 @@ box-shadow: 0 0 15px var(--color2);
 
 
   .footer2, .footer {
+  font-size: 0.8rem;
+  }
+
+  footer a {
   font-size: 0.8rem;
   }
 
