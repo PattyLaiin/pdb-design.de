@@ -808,6 +808,16 @@ grid-area: button3;
   }
 
 
+  #willkommen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: top;
+  position: relative;
+  height: 100vh;
+  padding: 0 5vw;
+  }
+
 
 h1 {
   font-size: 2.4rem;
@@ -905,6 +915,10 @@ box-shadow: 0 0 15px var(--color2);
   transform: none;
 }
 
+
+  .footer2, .footer {
+  font-size: 0.8rem;
+  }
 
 
   .leistungen {
