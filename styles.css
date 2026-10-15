@@ -826,7 +826,7 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   height: 9vh;
-  gap: 30px;
+  gap: 10px;
   align-items: center;
   width: 100%;
   position: fixed;
