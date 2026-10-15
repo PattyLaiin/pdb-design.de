@@ -834,15 +834,15 @@ h1 {
   background-color: var(--color2);
   padding: 20px 50px;
   box-sizing: border-box;
-  font-size: 1rem;
+  font-size: 0.8rem;
   z-index: 5;
   box-shadow: 0 3px 15px var(--color1);
 }
 
 
   .navigation:hover {
-font-size: 1rem;;
-}
+  font-size: 0.8rem;
+  }
 
 .vorstellung {
 display: grid;
@@ -943,7 +943,9 @@ box-shadow: 0 0 15px var(--color2);
   font-size: 0.8rem;
 }
 
-
+.text-links {
+  text-align: left;
+}
 
 .preise {
   display: flex;
