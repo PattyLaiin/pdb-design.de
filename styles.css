@@ -102,6 +102,12 @@ color: var(--color1);
 box-shadow: 0 0 15px var(--color2);
 }
 
+.vorstellung-bild {
+  width: 20vw;
+  height: 100%;
+  object-fit: cover;
+}
+
 .arbeiten {
 display: grid;
 grid-template-areas:
@@ -114,6 +120,12 @@ column-gap: 10vw;
 background-color: var(--color1);
 z-index: -2;
 box-shadow: 0 0 15px var(--color2);
+}
+
+.arbeiten-bild {
+  width: 40vw;
+  height: 100%;
+  object-fit: cover;
 }
 
 .interesse {
