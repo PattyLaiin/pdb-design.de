@@ -130,6 +130,10 @@ box-shadow: 0 0 15px var(--color2);
 }
 
 .button {
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration: none;
 width: 120px;
 height: 40px;
 border: 1.5px solid var(--color1);
