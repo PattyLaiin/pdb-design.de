@@ -96,7 +96,7 @@ grid-template-areas:
   "bild1 button1 button1";
 margin: 0;
 padding: 10vh;
-column-gap: 10vw;
+column-gap: 4vw;
 background-color: var(--color2);
 color: var(--color1);
 box-shadow: 0 0 15px var(--color2);
@@ -116,7 +116,7 @@ grid-template-areas:
   "button2 bild2 bild2";
 margin: 0;
 padding: 10vh;
-column-gap: 10vw;
+column-gap: 4vw;
 background-color: var(--color1);
 z-index: -2;
 box-shadow: 0 0 15px var(--color2);
