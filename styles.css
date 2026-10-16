@@ -38,6 +38,7 @@ h1 {
   font-size: 4vw;
   margin-bottom: 0;
   color: var(--color3);
+  text-align: center;
 }
 
 #subhead {
