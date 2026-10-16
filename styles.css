@@ -847,13 +847,15 @@ h1 {
   margin-left: 2.5vw;
   margin-right: 2.5vw;
   color: var(--color3);
-  }
+  padding: 10vh 5vh;
+}
 
 
   #subhead {
   font-size: 1rem;
   margin-left: 2.5vw;
   margin-right: 2.5vw;
+  padding: 10vh 5vh;
 }
 
 
@@ -891,7 +893,7 @@ grid-template-areas:
   "text1 text1 text1"
   "button1 button1 button1";
 margin: 0;
-padding: 10vh;
+padding: 10vh 5vh;
 column-gap: 4vw;
 background-color: var(--color2);
 color: var(--color1);
@@ -910,7 +912,7 @@ grid-template-areas:
   "text2 text2 text2"
   "button2 button2 button2";
 margin: 0;
-padding: 10vh;
+padding: 10vh 5vh;
 column-gap: 4vw;
 background-color: var(--color1);
 z-index: -2;
