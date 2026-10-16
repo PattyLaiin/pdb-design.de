@@ -842,6 +842,9 @@ grid-area: button3;
 
   .willkommen-texte {
     padding: 10vh 5vh;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
   }
 
 
@@ -859,7 +862,7 @@ h1 {
   font-size: 1rem;
   margin-left: 2.5vw;
   margin-right: 2.5vw;
-  margin-top: -20px;
+  margin-top: 0;
 }
 
 
@@ -867,7 +870,7 @@ h1 {
   display: flex;
   justify-content: space-evenly;
   height: 9vh;
-  gap: 18px;
+  gap: 16px;
   align-items: center;
   width: 100%;
   position: fixed;
@@ -1222,7 +1225,7 @@ box-shadow: 0 0 15px var(--color2);
 
   .impressum-hl {
     margin-bottom: 20px;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     color: var(--color3);
     text-align: center;
   }
@@ -1258,7 +1261,7 @@ box-shadow: 0 0 15px var(--color2);
 
   .datenschutz-hl {
     margin-bottom: 20px;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     color: var(--color3);
     text-align: center;
   }
