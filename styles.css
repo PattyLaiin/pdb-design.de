@@ -841,6 +841,7 @@ grid-area: button3;
   }
 
   .willkommen-texte {
+    margin-top: -40px;
     padding: 10vh 5vh;
     display: flex;
     flex-direction: column;
