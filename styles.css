@@ -808,6 +808,14 @@ grid-area: button3;
 
 
 
+
+
+
+
+
+
+
+
 @media screen and (orientation: portrait), (max-width: 1200px) {
 
   body {
@@ -1159,7 +1167,7 @@ box-shadow: 0 0 15px var(--color2);
   }
 
 .kontakt-text {
-  font-size: 1rem;
+  font-size: 0.8rem;
 }
 
 .kontakt-form {
@@ -1170,7 +1178,7 @@ box-shadow: 0 0 15px var(--color2);
 }
 
  .kontakt-label {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: bold;
   color: var(--color2);
   margin-bottom: -8px;
