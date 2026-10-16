@@ -886,7 +886,7 @@ color: var(--color2);
   }
 
   .willkommen-texte {
-    margin-top: -30vh;
+    margin-top: -15vh;
     padding: 10vh 5vh;
     display: flex;
     flex-direction: column;
