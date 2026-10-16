@@ -185,27 +185,27 @@ background-color: var(--color1);
 box-shadow: 0 0 15px var(--color2);
 }
 
-footer a {
+.footer a {
 color: var(--color3);
 }
 
-footer2 a {
+.footer2 a {
 color: var(--color1);
 }
 
-footer a:visited {
+.footer a:visited {
 color: var(--color3);
 }
 
-footer2 a:visited {
+.footer2 a:visited {
 color: var(--color1);
 }
 
-footer a:active {
+.footer a:active {
 color: var(--color2);
 }
 
-footer2 a:visited {
+.footer2 a:visited {
 color: var(--color3);
 }
 
