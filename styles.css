@@ -799,6 +799,15 @@ grid-area: button3;
 
 
 
+
+
+
+
+
+
+
+
+
 @media screen and (orientation: portrait), (max-width: 1200px) {
 
   body {
@@ -858,7 +867,7 @@ h1 {
 }
 
   p {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 
