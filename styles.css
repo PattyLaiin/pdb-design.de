@@ -1311,6 +1311,7 @@ box-shadow: 0 0 15px var(--color2);
     font-size: 1.6rem;
     color: var(--color3);
     text-align: center;
+    transform: scaleX(0.9);
   }
 
   .datenschutz {
