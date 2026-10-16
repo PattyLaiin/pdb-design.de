@@ -759,6 +759,10 @@ grid-area: button3;
   margin-top: 70px;
 }
 
+.quelle a {
+  font-size: 0.8rem;
+  color: var(--color2);
+}
 
 
 
