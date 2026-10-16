@@ -988,6 +988,7 @@ box-shadow: 0 0 15px var(--color2);
 
 .leistungen-sub {
   margin-bottom: 0;
+  font-size: 1.2rem;
 }
 
 .leistungen-text {
@@ -1042,6 +1043,10 @@ box-shadow: 0 0 15px var(--color2);
   margin: auto;
   text-align: center;
   }
+
+.preise-paket {
+  font-size: 1.2rem;
+}
 
 
 
