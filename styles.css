@@ -783,11 +783,11 @@ grid-area: button3;
 
 
 
-quelle a:visited {
+.quelle a:visited {
 color: var(--color3);
 }
 
-quelle a:active {
+.quelle a:active {
 color: var(--color2);
 }
 
@@ -798,11 +798,11 @@ color: var(--color2);
 }
 
 
-datenschutz-text a:visited {
+.datenschutz-text a:visited {
 color: var(--color3);
 }
 
-datenschutz-text a:active {
+.datenschutz-text a:active {
 color: var(--color2);
 }
 
@@ -886,7 +886,7 @@ color: var(--color2);
   }
 
   .willkommen-texte {
-    margin-top: -40px;
+    margin-top: -60px;
     padding: 10vh 5vh;
     display: flex;
     flex-direction: column;
