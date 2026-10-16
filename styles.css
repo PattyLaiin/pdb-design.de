@@ -193,6 +193,23 @@ footer2 a {
 color: var(--color1);
 }
 
+footer a:visited {
+color: var(--color3);
+}
+
+footer2 a:visited {
+color: var(--color1);
+}
+
+footer a:active {
+color: var(--color2);
+}
+
+footer2 a:visited {
+color: var(--color3);
+}
+
+
 
 
 
@@ -766,9 +783,27 @@ grid-area: button3;
 
 
 
+quelle a:visited {
+color: var(--color3);
+}
+
+quelle a:active {
+color: var(--color2);
+}
+
+
 
 .datenschutz-text a {
   color: var(--color2);
+}
+
+
+datenschutz-text a:visited {
+color: var(--color3);
+}
+
+datenschutz-text a:active {
+color: var(--color2);
 }
 
 
