@@ -766,6 +766,12 @@ grid-area: button3;
 
 
 
+
+.datenschutz-text a {
+  color: var(--color2);
+}
+
+
 .datenschutz {
   display: flex;
   flex-direction: column;
