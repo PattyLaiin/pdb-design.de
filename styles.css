@@ -843,6 +843,7 @@ grid-area: button3;
   .willkommen-texte {
     padding: 10vh 5vh;
     display: flex;
+    flex-direction: column;
     align-items: flex-start;
     gap: 20px;
   }
