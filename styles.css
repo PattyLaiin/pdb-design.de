@@ -902,7 +902,7 @@ h1 {
   color: var(--color3);
   margin-left: -5px;
   margin-right: -5px;
-  transform: scale(99.5);
+  transform: scale(0.995);
 }
 
 
