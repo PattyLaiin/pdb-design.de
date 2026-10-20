@@ -291,7 +291,6 @@ grid-area: button3;
   height: 20vw;
   min-height: 180px;
   max-height: 200px;
-  background-color: pink;
   object-fit: cover;
 }
 
@@ -649,19 +648,19 @@ grid-area: button3;
 }
 
 .bild1 {
-  background-image: url("./images/Blumen-Hintergrundbild.png");
+  background-image: url("./images/Hochzeitskarte.png");
 }
 
 .bild2 {
-  background-image: url("./images/Blumen-Hintergrundbild.png");
+  background-image: url("./images/Hochzeitskarte_innen1.png");
 }
 
 .bild3 {
-  background-image: url("./images/Blumen-Hintergrundbild.png");
+  background-image: url("./images/Hochzeitskarte_innen2.png");
 }
 
 .bild4 {
-  background-image: url("./images/Blumen-Hintergrundbild.png");
+  background-image: url("./images/Hochzeitskarte3.png");
 }
 
 .galerie-sub {
