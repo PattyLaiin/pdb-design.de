@@ -79,6 +79,12 @@ p {
   box-shadow: 0 3px 15px var(--color1);
 }
 
+#logo {
+  height: 5vh;
+  width: auto;
+  margin-right: auto;
+}
+
 .navigation {
 text-decoration: none;
 color: var(--color1);
