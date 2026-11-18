@@ -1,7 +1,7 @@
 :root {
-  --color1: rgb(245, 235, 220);
-  --color2: rgb(76, 76, 76);
-  --color3: darkred;
+  --color1: #565656;
+  --color2: #ece2d2;
+  --color3: #c81818;
   font-size: 20px;
 }
  
