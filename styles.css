@@ -934,6 +934,10 @@ h1 {
   box-shadow: 0 3px 15px var(--color1);
 }
 
+  #logo {
+    margin-left: -5px;
+  }
+
   p {
   font-size: 0.8rem;
   text-align: center;
