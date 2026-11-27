@@ -83,7 +83,7 @@ p {
   height: 5vh;
   width: auto;
   margin-right: auto;
-  min-height: 20px;
+  min-height: 50px;
 }
 
 .navigation {
@@ -937,6 +937,7 @@ h1 {
 
   #logo {
     margin-left: -25px;
+    min-height: 20px;
   }
 
   p {
